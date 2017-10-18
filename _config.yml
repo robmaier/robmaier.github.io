@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://robmaier.github.io"
-baseurl: "/"
+url: "https://robmaier.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -25,7 +25,7 @@ description: Computer Vision Researcher
 navbar-links:
   About: "about"
   Publications:
-    - Intrinsic3D: "http://robmaier.github.io/publications/maier2017intrinsic3d"
+    - Intrinsic3D: "https://robmaier.github.io/publications/maier2017intrinsic3d"
 #  Contact: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -54,38 +54,22 @@ avatar: "/img/robert_maier.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Robert Maier
-  email: "maierr@domain.com"
-  github: robmaier    # eg. daattali
-  twitter: RobertMaier   # eg. daattali
-  linkedin: robertmaier7  # eg. daattali
-  xing: Robert_Maier34      # eg. daattali
+  github: robmaier
+  twitter: RobertMaier
+  linkedin: robertmaier7
+  xing: Robert_Maier34
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
-  facebook: false
-  email: true
   twitter: true
-  google-plus: false
   github: true
-  reddit: false
   linkedin: true
   xing: true
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-  telephone: false
-  steam: false
-  twitch: false
-  yelp: false
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
-  google: false
+  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer

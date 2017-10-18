@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intrinsic3D - High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting
-subtitle: Robert Maier, Kihwan Kim, Daniel Cremers, Jan Kautz, Matthias Nießner
+subtitle: Robert Maier, Kihwan Kim, Daniel Cremers, Jan Kautz, Matthias Niessner
 show-avatar: false
 social-share: true
 share-img: https://robmaier.github.io/img/maier2017intrinsic3d.jpg

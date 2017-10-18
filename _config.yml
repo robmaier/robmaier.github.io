@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://robmaier.github.io"
-baseurl: ""
+baseurl: "/"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -23,9 +23,9 @@ description: Computer Vision Researcher
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about"
+  About: "about"
   Publications:
-    - Intrinsic3D: "https://robmaier.github.io/publications/maier2017intrinsic3d"
+    - Intrinsic3D: "http://robmaier.github.io/publications/maier2017intrinsic3d"
 #  Contact: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -55,22 +55,10 @@ avatar: "/img/robert_maier.jpg"
 author:
   name: Robert Maier
   email: "maierr@domain.com"
-  #facebook: yourname  # eg. daattali
   github: robmaier    # eg. daattali
   twitter: RobertMaier   # eg. daattali
-  #reddit: yourname    # eg. daattali
-  #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: robertmaier7  # eg. daattali
   xing: Robert_Maier34      # eg. daattali
-  #stackoverflow: yourlink  # eg. "3943160/daattali"
-  #snapchat: yourname  # eg. daattali
-  #instagram: yourname # eg. daattali
-  #youtube: yourlink   # eg. user/daattali or channel/daattali
-  #spotify: yourname   # eg. daattali
-  #telephone: yourphone   # eg. +14159998888
-  #steam: yourname     # eg. daattali
-  #twitch: yourname    # eg. daattali
-  #yelp: yourname      # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -102,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "rmaier.net"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "rmaier.net"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments

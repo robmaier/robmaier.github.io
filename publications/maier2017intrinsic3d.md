@@ -8,12 +8,10 @@ share-img: https://robmaier.github.io/img/maier2017intrinsic3d.jpg
 published: true
 ---
 
+![DDFFNet]({{site.baseurl}}/img/ddffnet.png){: .center-image }
+<br>
+
 <div style="text-align: justify">
 TODO
 </div>
 
-<div style="text-align: center">
-<a href="http://www.rmaier.net/pub/maier2017intrinsic3d.pdf" target="_blank">
-<button class="button buttonpaper"> pdf </button>
-</a>
-</div>

@@ -1,44 +1,44 @@
 ---
 layout: page
-title: Deep Depth From Focus
-subtitle: Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers
+title: Intrinsic3D: High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting
+subtitle: Robert Maier, Kihwan Kim, Daniel Cremers, Jan Kautz, Matthias Nießner
 show-avatar: false
 social-share: true
-share-img: https://hazirbas.github.io/img/ddffteaser.png
+share-img: https://robmaier.github.io/img/maier2017intrinsic3d.jpg
 published: true
 ---
 
-![DDFFNet]({{site.baseurl}}/img/ddffnet.png){: .center-image }
+![Intrinsic3D]({{site.baseurl}}/img/maier2017intrinsic3d.jpg){: .center-image }
 <br>
 
 <div style="text-align: justify">
-Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision.
-Most approaches recover the depth at each pixel based on the focal setting which exhibits maximal sharpness.
-Yet, it is not obvious how to reliably estimate the sharpness level, particularly in low-textured areas.
-In this paper, we propose `Deep Depth From Focus (DDFF)' as the first end-to-end learning approach to this problem.
-Towards this goal, we create a novel real-scene indoor benchmark composed of 4D light-field images obtained from a plenoptic camera and ground truth depth obtained from a registered RGB-D sensor.
-Compared to existing benchmarks our dataset is 30 times larger, enabling the use of machine learning for this inverse problem.
-We compare our results with state-of-the-art DFF methods and we also analyze the effect of several key deep architectural components.
-These experiments show that DDFFNet achieves state-of-the-art performance in all scenes, reducing depth error by more than 70% wrt classic DFF methods.
+We introduce a novel method to obtain high-quality 3D reconstructions from consumer RGB-D sensors. Our core idea is to simultaneously optimize for geometry encoded in a signed distance field (SDF), textures from automatically-selected keyframes, and their camera poses along with material and scene lighting. To this end, we propose a joint surface reconstruction approach that is based on Shape-from-Shading (SfS) techniques and utilizes the estimation of spatially-varying spherical harmonics (SVSH) from subvolumes of the reconstructed scene. Through extensive examples and evaluations, we demonstrate that our method dramatically increases the level of detail in the reconstructed scene geometry and contributes highly to consistent surface texture recovery.
 </div>
 
 <div style="text-align: center">
-<a href="https://arxiv.org/abs/1704.01085" target="_blank">
-<button class="button buttonpaper"> arXiv </button>
-</a>
-<a href="https://arxiv.org/pdf/1704.01085" target="_blank">
+<a href="www.rmaier.net/pub/maier2017intrinsic3d.pdf" target="_blank">
 <button class="button buttonpaper"> pdf </button>
+</a>
+<a href="www.rmaier.net/pub/maier2017intrinsic3d.pdf" target="_blank">
+<button class="button buttonpaper"> slides </button>
+</a>
+<a href="www.rmaier.net/pub/maier2017intrinsic3d_poster.pdf" target="_blank">
+<button class="button buttonpaper"> poster </button>
+</a>
+<a href="www.rmaier.net/pub/maier2017intrinsic3d.bib" target="_blank">
+<button class="button buttonpaper"> bibtex </button>
 </a>
 </div>
 
 ### Bibtex
 ```
-@inproceedings{hazirbas17ddff,
-  title     = {Deep Depth From Focus},
-  author    = {C. Hazirbas and L. Leal-Taixé and D. Cremers},
-  booktitle = {Arxiv preprint arXiv:1704.01085},
-  month     = {April},
-  year      = {2017},
+@inproceedings{maier2017intrinsic3d,
+	title={Intrinsic3D: High-Quality {3D} Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting},
+	author={Maier, R. and Kim, K. and Cremers, D. and Kautz, J. and Nie{\ss}ner, M.},
+	booktitle={International Conference on Computer Vision (ICCV)},
+	year={2017},
+	month={October},
+	address={Venice, Italy}
 }
 ```
 

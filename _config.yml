@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 #url: "https://robmaier.github.io"
-url: "https://www.rmaier.net"
+url: "http://www.rmaier.net"
 baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -23,6 +23,8 @@ navbar-links:
   CV: "cv"
   Publications:
     - Intrinsic3D: "/publications/maier2017intrinsic3d"
+  Academia: "academia"
+  Contact: "contact"
 #  Contact: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)

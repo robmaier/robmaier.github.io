@@ -22,7 +22,7 @@ description: Computer Vision | Munich
 navbar-links:
   CV: "cv"
   Publications:
-    - Intrinsic3D: "/publications/maier2017intrinsic3d"
+    - Intrinsic3D: "{{site.baseurl}}/publications/maier2017intrinsic3d"
   Academia: "academia"
   Contact: "contact"
 #  Contact: "http://deanattali.com"

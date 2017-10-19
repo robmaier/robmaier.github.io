@@ -20,10 +20,10 @@ description: Computer Vision | Munich
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "{{site.url}}"
+  Home: ""
   CV: "cv"
   Publications:
-    - Intrinsic3D: "{{site.url}}/publications/maier2017intrinsic3d"
+    - Intrinsic3D: "publications/maier2017intrinsic3d"
   Academia: "academia"
   Contact: "contact"
 #  Contact: "http://deanattali.com"

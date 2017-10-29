@@ -4,7 +4,7 @@ title: Contact
 ---
 
 [rmaier.net](http://www.rmaier.net/) is the website of Robert Maier.
----
+___
 **Robert Maier**
 
 Technische Universität München
@@ -13,13 +13,13 @@ Informatik 9
 Boltzmannstr. 3
 85748 Garching b. München
 Germany
----
+___
 Phone: +49 89 / 289-17782
 Email: rm [at] rmaier.net
 Web: [www.rmaier.net](http://www.rmaier.net/) 
 
 Responsible for content according to §10 Abs. 3 MDStV: Robert Maier
----
+___
 **Disclaimer**
 
 1. Content

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robert Maier
-subtitle: Computer Vision | Munich
+#subtitle: Computer Vision | Munich
 use-site-title: true
 ---
 

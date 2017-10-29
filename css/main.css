@@ -7,7 +7,8 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  /*font-family: 'Lora', 'Times New Roman', serif;*/
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -30,14 +31,21 @@ p a {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 300;
 }
+.h1, h1 {
+    font-size: 22px;
+}
+
 a {
   color: #008AFF;
 }
 a:hover,
 a:focus {
   color: #0085a1;
+}
+a:visited {
+  color: #008AFF;
 }
 blockquote {
   color: #808080;
@@ -49,9 +57,9 @@ blockquote p:first-child {
 hr.small {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 1px;
   border-color: inherit;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 .main-content {
@@ -482,11 +490,11 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 30px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 35px;
+  font-size: 25px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {

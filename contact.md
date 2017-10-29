@@ -18,7 +18,7 @@ Web: [www.rmaier.net](http://www.rmaier.net/)<br>
 Responsible for content according to §10 Abs. 3 MDStV: Robert Maier
 
 # Disclaimer
-´´´
+```
 1. Content
 The author reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.
 All offers are not-binding and without obligation. Parts of the pages or the complete publication including all offers and information might be extended, changed or partly or completely deleted by the author without separate announcement.
@@ -35,4 +35,4 @@ If the opportunity for the input of personal or business data (email addresses, 
 
 5. Legal validity of this disclaimer
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.
-´´´
+```

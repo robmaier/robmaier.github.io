@@ -10,14 +10,14 @@ Informatik 9
 Boltzmannstr. 3
 85748 Garching b. München
 Germany
-___
+
 # Contact
-Phone: +49 89 / 289-17782
-Email: rm [at] rmaier.net
-Web: [www.rmaier.net](http://www.rmaier.net/) 
+Phone: +49 89 / 289-17782<br>
+Email: rm [at] rmaier.net<br>
+Web: [www.rmaier.net](http://www.rmaier.net/)<br>
 
 Responsible for content according to §10 Abs. 3 MDStV: Robert Maier
-___
+
 # Disclaimer
 1. Content
 The author reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.

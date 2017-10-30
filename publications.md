@@ -16,6 +16,10 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JoLgWjkAAAA
 | ![maier2015superresolution](/pub/maier2015superresolution.jpg "maier2015superresolution") | **Super-Resolution Keyframe Fusion for 3D Modeling with High-Quality Textures**<br>*Robert Maier, Jörg Stückler, Daniel Cremers*<br>International Conference on 3D Vision (3DV), October 2015, Lyon, France.<br>[\[Paper\]](/pub/maier2015superresolution.pdf){:target="_blank"} |
 | ![maier2014submap](/pub/maier2014submap.jpg "maier2014submap") | **Submap-based Bundle Adjustment for 3D Reconstruction from RGB-D Data**<br>*Robert Maier, Jürgen Sturm, Daniel Cremers*<br>German Conference on Pattern Recognition (GCPR), September 2014, Münster, Germany.<br>[\[Paper\]](/pub/maier2014submap.pdf){:target="_blank"} |
 
+&nbsp;<br>
+___
+&nbsp;<br>
+
 # Theses
 
 &nbsp;<br>

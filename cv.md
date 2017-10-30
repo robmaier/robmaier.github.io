@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-| 05/2014 – present | **Research Assistant / PhD Candidate**<br>[Chair for Computer Vision and Pattern Recognition](http://vision.in.tum.de){:target="_blank"}, Technische Universität München, Munich, Germany | ![TUM CVPR](/img/cv_cvpr.jpg "TUM CVPR") |
+| 05/2014 – present | **Research Assistant / PhD Candidate**<br>[Chair for Computer Vision and Pattern Recognition](http://vision.in.tum.de){:target="_blank"}<br>*Technische Universität München, Munich, Germany* | ![TUM CVPR](/img/cv_cvpr.jpg "TUM CVPR") |
 | 09/2016 – 03/2017 | **Research Intern Computer Vision**<br>[NVIDIA Research](https://research.nvidia.com){:target="_blank"}, Santa Clara, CA, USA | ![NVIDIA](/img/cv_nvidia.jpg "NVIDIA") |
 | 07/2013 – 05/2014 | **Software Engineer Computer Vision**<br>[ImFusion](http://www.imfusion.de){:target="_blank"}, Munich, Germany | ![ImFusion](/img/cv_imfusion.jpg "ImFusion") |
 | 10/2010 – 09/2013 | **M.Sc. Computer Science, with distinction**<br>[Technische Universität München](https://www.tum.de){:target="_blank"}, Munich, Germany | ![TUM](/img/cv_tum.jpg "TUM") |

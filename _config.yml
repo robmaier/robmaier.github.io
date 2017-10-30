@@ -21,7 +21,7 @@ description: Computer Vision | Munich
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-#  CV: "cv"
+  CV: "cv"
 #  Publications:
 #    - Intrinsic3D: "publications/maier2017intrinsic3d"
 #  Academia: "academia"
@@ -53,6 +53,7 @@ avatar: "/img/robert_maier_small.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Robert Maier
+  email: "rm@rmaier.net"
   github: robmaier
   twitter: RobertMaier
   linkedin: robertmaier7
@@ -60,6 +61,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
+  email: true
   linkedin: true
   xing: true
   twitter: true

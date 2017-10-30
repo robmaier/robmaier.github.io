@@ -14,7 +14,7 @@ baseurl: ""
 title: Robert Maier
 
 # Short description of your site
-description: Computer Vision | Munich
+description: Robert Maier | Computer Vision Researcher | Munich
 
 # --- Navigation bar options --- #
 
@@ -22,6 +22,7 @@ description: Computer Vision | Munich
 navbar-links:
   Home: ""
   CV: "cv"
+  Publications: "publications"
 #  Publications:
 #    - Intrinsic3D: "publications/maier2017intrinsic3d"
 #  Academia: "academia"

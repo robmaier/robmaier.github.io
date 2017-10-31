@@ -4,7 +4,7 @@ title: Robert Maier
 use-site-title: true
 ---
 
-My name is **Robert Maier** and I am a Research Assistant and Doctorate Candidate at the [Chair for Computer Vision and Pattern Recognition](http://vision.in.tum.de/){:target="_blank"} at the [Technical University of Munich](http://www.tum.de/){:target="_blank"}, headed by [Prof. Dr. Daniel Cremers](https://vision.in.tum.de/members/cremers){:target="_blank"}.
+My name is **Robert Maier** and I am a Research Assistant and Doctorate Candidate at the [Chair for Computer Vision and Artificial Intelligence](http://vision.in.tum.de/){:target="_blank"} at the [Technical University of Munich](http://www.tum.de/){:target="_blank"}, headed by [Prof. Dr. Daniel Cremers](https://vision.in.tum.de/members/cremers){:target="_blank"}.
 
 # Research Interests
 My research interests include *(real-time) RGB-D based 3D Reconstruction, Visual SLAM, Visual Odometry, Shape-from-Shading and Bundle Adjustment techniques*. Please visit my [publication page](http://www.rmaier.net/publications/) to find out more about my research.

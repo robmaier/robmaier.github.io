@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Home
+title: Welcome
 use-site-title: true
 ---
 
-# Welcome
 My name is **Robert Maier** and I am a Research Assistant and Doctorate Candidate at the [Chair for Computer Vision and Artificial Intelligence](http://vision.in.tum.de/){:target="_blank"} at the [Technical University of Munich](http://www.tum.de/){:target="_blank"}, headed by [Prof. Dr. Daniel Cremers](https://vision.in.tum.de/members/cremers){:target="_blank"}.
 
 # Research Interests

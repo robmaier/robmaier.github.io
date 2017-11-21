@@ -20,3 +20,4 @@ Please check out also my [academic website](https://vision.in.tum.de/members/mai
 * I am appearing in the 2016 Hollywood film ["Snowden"](http://www.imdb.com/title/tt3774114/){:target="_blank"} (directed by Oliver Stone) as an NSA employee.
 * I have a low [Erdös–Bacon number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number){:target="_blank"} of 7, with an [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"} of 5 and a [Bacon number](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers){:target="_blank"} of 2.
 * I have probably spent more lifetime on football/soccer fields than in any other place.
+* I grew up on a [hops](https://en.wikipedia.org/wiki/Hops){:target="_blank"} farm in the [Hallertau](https://en.wikipedia.org/wiki/Hallertau){:target="_blank"} in Bavaria.

@@ -27,45 +27,35 @@ title: Academia
 
 * **Minisymposium Recent Trends in Photometric 3D-Reconstruction (SIAM-IS 2018)**<br>
 *High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting*<br>
-Invited Talk. June 7, 2018. Bologna, Italy.<br>
-**SIAM IS18 Student/Post-doc Travel Award**
-
+**SIAM IS18 Student/Post-doc Travel Award**<br>
+Invited Talk. June 7, 2018. Bologna, Italy.
 * **International Conference on Computer Vision (ICCV) 2017**<br>
 *Intrinsic3D: High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting*<br>
 Poster. October 2017. Venice, Italy.
-
 * **EuroTech Universities Alliance's High Level Event**<br>
 *CopyMe3D: Scanning and Printing Persons in 3D*<br>
 Poster & Live Demo. September 20, 2017. Brussels, Belgium.
-
 * **British Machine Vision Conference (BMVC) 2017**<br>
 *Efficient Online Surface Correction for Real-time Large-Scale 3D Reconstruction*<br>
 Poster. September 2017. London, United Kingdom.
-
 * **Huawei Workshop on Smart Device Technologies**<br>
 *High-Quality 3D Reconstruction from Low-Cost Depth Sensors*<br>
 Invited Talk. September 19, 2017. Munich, Germany.
-
 * **International Conference on Robotics and Automation (ICRA) 2017**<br>
 *De-noising, Stabilizing and Completing 3D Reconstructions On-the-go using Plane Priors*<br>
 Spotlight. May 2017. Singapore.
-
 * **International Conference on 3D Vision (3DV) 2015**<br>
 *Super-Resolution Keyframe Fusion for 3D Modeling with High-Quality Textures*<br>
 Poster. October 2015. Lyon, France.
-
 * **International Computer Vision Summer School (ICVSS) 2015**<br>
 *Fast and Robust Texture Mapping for 3D Person Scanning*<br>
 Poster. July 2015. Sicily, Italy.
-
 * **German Conference on Pattern Recognition (GCPR) 2014**<br>
 *Submap-based Bundle Adjustment for 3D Reconstruction from RGB-D Data*<br>
 Oral. September 3, 2014. Münster, Germany.
-
 * **Metaio Research Colloqium**<br>
 *Submap-based Bundle for 3D Reconstruction from RGB-D Data*<br> 
 Invited Talk. August 27, 2014. Metaio, Munich, Germany.
-
 
 # Reviewer
 

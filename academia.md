@@ -5,6 +5,7 @@ title: Academia
 
 # Teaching
 
+* [Practical Course: GPU Programming in Computer Vision](https://vision.in.tum.de/teaching/ss2018/gpucourse_ss2018){:target="_blank"} (Summer Semester 2018)
 * [Computer Vision II: Multiple View Geometry](https://vision.in.tum.de/teaching/ss2016/mvg2016){:target="_blank"} (Summer Semester 2016)
 * [Practical Course: GPU Programming in Computer Vision](https://vision.in.tum.de/teaching/ws2015/gpucourse_ws2015){:target="_blank"} (Winter Semester 2015/2016)
 * [Practical Course: Vision-based Navigation](https://vision.in.tum.de/teaching/ws2015/visnav_ws2015){:target="_blank"} (Winter Semester 2015/2016)
@@ -14,6 +15,7 @@ title: Academia
 
 # Supervised Student Projects
 
+* **Shading-based Refinement on Volumetric Signed Distance Functions.**<br>Andreas Seibold, Interdisciplinary Project (IDP), February 2018.
 * **Dynamic 3D Reconstruction using RGB-D Sensors.**<br>Maximilian Staab & Sebastian Soyer, Interdisciplinary Project (IDP), September 2017.
 * **Evaluation of Robust Dense Visual Odometry for RGB-D Cameras in OpenCL.**<br>Josef Brandl, Master's Thesis, March 2017.
 * **Variational Super-resolution Keyframe Fusion.**<br>Nan Liu, Interdisciplinary Project (IDP), March 2017.
@@ -27,7 +29,7 @@ title: Academia
 
 * **Minisymposium Recent Trends in Photometric 3D-Reconstruction (SIAM-IS 2018)**<br>
 *High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting*<br>
-**SIAM IS18 Student/Post-doc Travel Award**<br>
+SIAM IS18 Student/Post-doc Travel Award<br>
 Invited Talk. June 7, 2018. Bologna, Italy.
 * **International Conference on Computer Vision (ICCV) 2017**<br>
 *Intrinsic3D: High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting*<br>

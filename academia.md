@@ -42,7 +42,7 @@ Poster & Live Demo. September 20, 2017. Brussels, Belgium.
 Poster. September 2017. London, United Kingdom.
 * **Huawei Workshop on Smart Device Technologies**<br>
 *High-Quality 3D Reconstruction from Low-Cost Depth Sensors*<br>
-Invited Talk. September 19, 2017. Munich, Germany.
+Invited Talk. September 19, 2017. Huawei, Munich, Germany.
 * **International Conference on Robotics and Automation (ICRA) 2017**<br>
 *De-noising, Stabilizing and Completing 3D Reconstructions On-the-go using Plane Priors*<br>
 Spotlight. May 2017. Singapore.
@@ -56,7 +56,7 @@ Poster. July 2015. Sicily, Italy.
 *Submap-based Bundle Adjustment for 3D Reconstruction from RGB-D Data*<br>
 Oral. September 3, 2014. Münster, Germany.
 * **Metaio Research Colloqium**<br>
-*Submap-based Bundle for 3D Reconstruction from RGB-D Data*<br> 
+*Submap-based Bundle Adjustment for 3D Reconstruction from RGB-D Data*<br> 
 Invited Talk. August 27, 2014. Metaio, Munich, Germany.
 
 # Reviewer

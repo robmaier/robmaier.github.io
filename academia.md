@@ -5,6 +5,9 @@ title: Academia
 
 # Conferences / Workshops / Invited Talks / Demos
 
+* **Minisymposium 3D Shape Reconstruction and Applications (SIMAI 2018)**<br>
+*Intrinsic3D: High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting*<br>
+Invited Talk. July 6, 2018. Rome, Italy.
 * **Minisymposium Recent Trends in Photometric 3D-Reconstruction (SIAM-IS 2018)**<br>
 *High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting*<br>
 SIAM IS18 Student/Post-doc Travel Award<br>
@@ -39,7 +42,7 @@ Invited Talk. August 27, 2014. Metaio, Munich, Germany.
 
 # Reviewer
 
-* Conferences: ICRA 2018, ACCV 2016 (**Outstanding Reviewer Award**), IROS 2016, IROS 2015, ACCV 2014.
+* Conferences: 3DV 2018, ICRA 2018, ACCV 2016 (**Outstanding Reviewer Award**), IROS 2016, IROS 2015, ACCV 2014.
 * Journals: IEEE Transactions on Robotics, Computer Vision and Image Understanding (Elsevier).
 
 # Teaching

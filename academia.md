@@ -42,7 +42,7 @@ Invited Talk. August 27, 2014. Metaio, Munich, Germany.
 
 # Reviewer
 
-* Conferences: 3DV 2018, ICRA 2018, ACCV 2016 (**Outstanding Reviewer Award**), IROS 2016, IROS 2015, ACCV 2014.
+* Conferences: 3DV 2018, ICRA 2018, ACCV 2018, ACCV 2016 (**Outstanding Reviewer Award**), IROS 2016, IROS 2015, ACCV 2014.
 * Journals: IEEE Transactions on Robotics, Computer Vision and Image Understanding (Elsevier).
 
 # Teaching

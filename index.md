@@ -14,7 +14,7 @@ I have joined the Computer Vision Group at TUM in May 2014 as a research assista
 I have received my Bachelor’s degree (2010) and my Master’s degree (2013, with distinction) in Computer Science from the Technical University of Munich (Germany). During my Master’s studies, I spent an exchange semester at [UPC Barcelona](http://www.upc.edu/){:target="_blank"} (Spain) in 2011/2012, before I worked as a Computer Vision Research Intern at [Siemens Corporate Research](http://www.usa.siemens.com/en/about_us/research/home.htm){:target="_blank"} in Princeton, NJ (USA) in 2012/2013. Moreover, I have a Computer Science Expert degree and many years experience of working as a Software Engineer. Please have a look at my [CV](http://www.rmaier.net/cv/) for more information.
 
 <div class="sketchfab-embed-wrapper" style="width:100%; text-align: center">
-<iframe width="640" height="480" src="https://sketchfab.com/models/80261d76f34e47ff96b9201f268ebbdd/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe style="width:100%" src="https://sketchfab.com/models/80261d76f34e47ff96b9201f268ebbdd/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 # Find me on…

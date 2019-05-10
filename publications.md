@@ -19,7 +19,7 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JoLgWjkAAAA
 
 # Journal Articles
 
-| ![roy2019noninvasive](/pub/roy2019noninvasive.jpg "roy2019noninvasive") | **A Non-invasive 3D Body Scanner and Software Tool towards Analysis of Scoliosis**<br>*Susmita Roy, Alexander T. D. Grünwald, Ana Alves-Pinto, **Robert Maier**, Daniel Cremers, Daniela Pfeiffer, Renee Lampe*<br>BioMed Research International, accepted, 2019.<br>[\[BibTeX\]](/pub/roy2019noninvasive.bib){:target="_blank"} |
+| ![roy2019noninvasive](/pub/roy2019noninvasive.jpg "roy2019noninvasive") | **A Non-invasive 3D Body Scanner and Software Tool towards Analysis of Scoliosis**<br>*Susmita Roy, Alexander T. D. Grünwald, Ana Alves-Pinto, **Robert Maier**, Daniel Cremers, Daniela Pfeiffer, Renee Lampe*<br>BioMed Research International (BMRI), May 2019.<br>[\[Paper\]](http://downloads.hindawi.com/journals/bmri/2019/4715720.pdf){:target="_blank"} [\[BibTeX\]](/pub/roy2019noninvasive.bib){:target="_blank"} |
 
 
 # Theses

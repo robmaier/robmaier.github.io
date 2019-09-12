@@ -11,7 +11,7 @@ table:nth-of-type(3) {
     width:100%;
 }
 table:nth-of-type(3) th:nth-of-type(2) {
-    width:10%;
+    width:100%;
 }
 </style>
 

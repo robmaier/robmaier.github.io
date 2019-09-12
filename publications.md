@@ -21,9 +21,14 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JoLgWjkAAAA
 
 | ![roy2019noninvasive](/pub/roy2019noninvasive.jpg "roy2019noninvasive") | **A Non-invasive 3D Body Scanner and Software Tool towards Analysis of Scoliosis**<br>*Susmita Roy, Alexander T. D. Grünwald, Ana Alves-Pinto, **Robert Maier**, Daniel Cremers, Daniela Pfeiffer, Renee Lampe*<br>BioMed Research International (BMRI), May 2019.<br>[\[Paper\]](http://downloads.hindawi.com/journals/bmri/2019/4715720.pdf){:target="_blank"} [\[BibTeX\]](/pub/roy2019noninvasive.bib){:target="_blank"} |
 
+# Book Chapters
+
+| | **RGB-D Vision**<br>***Robert Maier**, Daniel Cremers*<br>Encyclopedia of Robotics, accepted.<br>... |
+
 
 # Theses
 
+|  | **High-Quality 3D Reconstruction from Low-Cost RGB-D Sensors**<br>***Robert Maier***<br>Dissertation, Technische Universität München, submitted.<br>... |
 | ![maier2013thesis](/pub/maier2013thesis.jpg "maier2013thesis") | **Out-of-Core Bundle Adjustment for 3D Workpiece Reconstruction**<br>***Robert Maier***<br>Master’s Thesis, Technische Universität München, September 2013.<br>[\[Thesis\]](/pub/maier2013thesis.pdf){:target="_blank"} [\[Slides\]](/pub/maier2013thesis_slides.pdf){:target="_blank"} [\[BibTeX\]](/pub/maier2013thesis.bib){:target="_blank"} |
 | ![maier2010thesis](/pub/maier2010thesis.jpg "maier2010thesis") | **Dynamic Workspace-Surveillance in a Human-Robot Collaboration Scenario using Depth Cameras (German)**<br>***Robert Maier***<br>Bachelor’s Thesis, Technische Universität München, October 2010.<br>[\[Thesis\]](/pub/maier2010thesis.pdf){:target="_blank"} [\[Slides\]](/pub/maier2010thesis_slides.pdf){:target="_blank"} [\[BibTeX\]](/pub/maier2010thesis.bib){:target="_blank"} |
 

@@ -10,16 +10,16 @@ table:nth-of-type(1), table:nth-of-type(2), table:nth-of-type(3), table:nth-of-t
     display:table;
     width:100%;
 }
-table:nth-of-type(1) th:nth-of-type(1) {
+table:nth-of-type(1) td:nth-of-type(1) {
     width:125px;
 }
-table:nth-of-type(2) th:nth-of-type(1) {
+table:nth-of-type(2) td:nth-of-type(1) {
     width:125px;
 }
-table:nth-of-type(3) th:nth-of-type(1) {
+table:nth-of-type(3) td:nth-of-type(1) {
     width:125px;
 }
-table:nth-of-type(4) th:nth-of-type(1) {
+table:nth-of-type(4) td:nth-of-type(1) {
     width:125px;
 }
 </style>

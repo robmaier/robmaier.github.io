@@ -5,6 +5,15 @@ title: Publications
 
 Find me on [Google Scholar](https://scholar.google.de/citations?user=JoLgWjkAAAAJ){:target="_blank"} for a detailed list of my publications.
 
+<style>
+table:nth-of-type(3) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(3) th:nth-of-type(2) {
+    width:10%;
+}
+</style>
 
 # Conference Papers
 

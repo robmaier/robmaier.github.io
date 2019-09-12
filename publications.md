@@ -28,7 +28,7 @@ Find me on [Google Scholar](https://scholar.google.de/citations?user=JoLgWjkAAAA
 
 # Theses
 
-|  | **High-Quality 3D Reconstruction from Low-Cost RGB-D Sensors**<br>***Robert Maier***<br>Dissertation, Technische Universität München, submitted.<br>... |
+| ![maier2019dissertation](/pub/maier2019dissertation.jpg "maier2019dissertation") | **High-Quality 3D Reconstruction from Low-Cost RGB-D Sensors**<br>***Robert Maier***<br>Dissertation, Technische Universität München, submitted.<br>... |
 | ![maier2013thesis](/pub/maier2013thesis.jpg "maier2013thesis") | **Out-of-Core Bundle Adjustment for 3D Workpiece Reconstruction**<br>***Robert Maier***<br>Master’s Thesis, Technische Universität München, September 2013.<br>[\[Thesis\]](/pub/maier2013thesis.pdf){:target="_blank"} [\[Slides\]](/pub/maier2013thesis_slides.pdf){:target="_blank"} [\[BibTeX\]](/pub/maier2013thesis.bib){:target="_blank"} |
 | ![maier2010thesis](/pub/maier2010thesis.jpg "maier2010thesis") | **Dynamic Workspace-Surveillance in a Human-Robot Collaboration Scenario using Depth Cameras (German)**<br>***Robert Maier***<br>Bachelor’s Thesis, Technische Universität München, October 2010.<br>[\[Thesis\]](/pub/maier2010thesis.pdf){:target="_blank"} [\[Slides\]](/pub/maier2010thesis_slides.pdf){:target="_blank"} [\[BibTeX\]](/pub/maier2010thesis.bib){:target="_blank"} |
 

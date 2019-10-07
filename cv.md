@@ -4,17 +4,16 @@ title: CV
 ---
 
 <style>
-table:nth-of-type(1), table:nth-of-type(2), table:nth-of-type(3), table:nth-of-type(4) {
+table:nth-of-type(1) {
     display:table;
     width:100%;
 }
-table:nth-of-type(1) td:nth-of-type(1),
-table:nth-of-type(2) td:nth-of-type(1),
-table:nth-of-type(3) td:nth-of-type(1),
-table:nth-of-type(4) td:nth-of-type(1) {
-    width:130px;
+table:nth-of-type(1) td:nth-of-type(3) {
+    width:105px;
+    text-align:center;
 }
 </style>
+
 
 | 10/2019 – present | **Computer Vision Engineer**<br>[Apple](https://www.apple.com/){:target="_blank"}<br>*Munich, Germany* | ![Apple](/img/cv_apple.jpg "Apple") |
 | 05/2014 – 10/2019 | **Research Assistant / PhD Candidate**<br>[Chair for Computer Vision and Artificial Intelligence](http://vision.in.tum.de){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* | ![TUM CVPR](/img/cv_cvpr.jpg "TUM CVPR") |

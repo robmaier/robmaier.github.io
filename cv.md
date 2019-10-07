@@ -3,7 +3,20 @@ layout: page
 title: CV
 ---
 
-| 10/2019 – present | **Computer Vision Engineer**<br>[Apple](https://www.apple.com/){:target="_blank"}<br>*Munich, Germany* | <span style="align:center; width:100%">![Apple](/img/cv_apple.jpg "Apple")</span> |
+<style>
+table:nth-of-type(1), table:nth-of-type(2), table:nth-of-type(3), table:nth-of-type(4) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(1) td:nth-of-type(1),
+table:nth-of-type(2) td:nth-of-type(1),
+table:nth-of-type(3) td:nth-of-type(1),
+table:nth-of-type(4) td:nth-of-type(1) {
+    width:130px;
+}
+</style>
+
+| 10/2019 – present | **Computer Vision Engineer**<br>[Apple](https://www.apple.com/){:target="_blank"}<br>*Munich, Germany* | ![Apple](/img/cv_apple.jpg "Apple") |
 | 05/2014 – 10/2019 | **Research Assistant / PhD Candidate**<br>[Chair for Computer Vision and Artificial Intelligence](http://vision.in.tum.de){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* | ![TUM CVPR](/img/cv_cvpr.jpg "TUM CVPR") |
 | 02/2018 – 05/2018 | **Research Intern Computer Vision**<br>[Oculus Research (Facebook Reality Labs)](https://www.oculus.com/research/){:target="_blank"}<br>*Redmond, WA, USA* | ![Oculus Research](/img/cv_oculus.jpg "Oculus Research") |
 | 09/2016 – 03/2017 | **Research Intern Computer Vision**<br>[NVIDIA Research](https://research.nvidia.com){:target="_blank"}<br>*Santa Clara, CA, USA* | ![NVIDIA](/img/cv_nvidia.jpg "NVIDIA") |

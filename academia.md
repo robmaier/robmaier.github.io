@@ -57,6 +57,7 @@ Invited Talk. August 27, 2014. Metaio, Munich, Germany.
 
 # Supervised Student Projects
 
+* **High-Quality Depth Maps from RGB-D Keyframes using Shape-from-Shading.**<br>Florian Windolf, Master's Thesis, October 2019.
 * **Shading-based Refinement on Volumetric Signed Distance Functions.**<br>Andreas Seibold, Interdisciplinary Project (IDP), February 2018.
 * **Dynamic 3D Reconstruction using RGB-D Sensors.**<br>Maximilian Staab & Sebastian Soyer, Interdisciplinary Project (IDP), September 2017.
 * **Evaluation of Robust Dense Visual Odometry for RGB-D Cameras in OpenCL.**<br>Josef Brandl, Master's Thesis, March 2017.

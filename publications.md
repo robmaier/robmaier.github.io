@@ -37,7 +37,7 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 # Book Chapters
 
-| ![maier2019rgbdvision](/pub/maier2019rgbdvision.jpg "maier2019rgbdvision") | **RGB-D Vision**<br>***Robert Maier**, Daniel Cremers*<br>Springer Encyclopedia of Robotics, 2019.<br>Accepted for publication. |
+| ![maier2020rgbdvision](/pub/maier2020rgbdvision.jpg "maier2020rgbdvision") | **RGB-D Vision**<br>***Robert Maier**, Daniel Cremers*<br>Springer Encyclopedia of Robotics, 2020.<br>Accepted for publication.<br>[\[BibTeX\]](/pub/maier2020rgbdvision.bib){:target="_blank"} |
 
 
 # Theses

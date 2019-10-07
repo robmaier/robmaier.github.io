@@ -5,7 +5,7 @@ title: Academia
 
 # Conferences / Workshops / Invited Talks / Demos
 
-* **TUM Excellence Initiative (Main Demo)**<br>
+* **TUM Excellence Initiative**<br>
 *BodyCloner: Real-time 3D Person Scanning with a Portable and Low-cost Scan Arm*<br>
 Live Demo. February 13, 2019. Munich, Germany.
 * **Minisymposium 3D Shape Reconstruction and Applications (SIMAI 2018)**<br>

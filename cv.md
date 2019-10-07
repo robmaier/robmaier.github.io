@@ -9,7 +9,7 @@ table:nth-of-type(1) {
     width:100%;
 }
 table:nth-of-type(1) td:nth-of-type(3) {
-    width:105px;
+    width:125px;
     text-align:center;
 }
 </style>

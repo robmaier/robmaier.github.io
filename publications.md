@@ -38,8 +38,7 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 # Book Chapters
 
-| ![maier2020rgbdvision](/pub/maier2020rgbdvision.jpg "maier2020rgbdvision") | **RGB-D Vision**<br>***Robert Maier**, Daniel Cremers*<br>Springer Encyclopedia of Robotics, May 2020.<br>xxx |
-[\[PDF\]](https://link.springer.com/content/pdf/10.1007%2F978-3-642-41610-1_109-1.pdf){:target="_blank"} [\[Chapter\]](https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-41610-1_109-1){:target="_blank"} [\[Book\]](https://link.springer.com/referencework/10.1007/978-3-642-41610-1){:target="_blank"} [\[BibTeX\]](/pub/maier2020rgbdvision.bib){:target="_blank"}
+| ![maier2020rgbdvision](/pub/maier2020rgbdvision.jpg "maier2020rgbdvision") | **RGB-D Vision**<br>***Robert Maier**, Daniel Cremers*<br>Springer Encyclopedia of Robotics, May 2020.<br>[\[PDF\]](https://link.springer.com/content/pdf/10.1007%2F978-3-642-41610-1_109-1.pdf){:target="_blank"} [\[Chapter\]](https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-41610-1_109-1){:target="_blank"} [\[Book\]](https://link.springer.com/referencework/10.1007/978-3-642-41610-1){:target="_blank"} [\[BibTeX\]](/pub/maier2020rgbdvision.bib){:target="_blank"} |
 
 
 # Preprints

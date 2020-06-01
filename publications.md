@@ -38,7 +38,8 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 # Book Chapters
 
-| ![maier2020rgbdvision](/pub/maier2020rgbdvision.jpg "maier2020rgbdvision") | **RGB-D Vision**<br>***Robert Maier**, Daniel Cremers*<br>Springer Encyclopedia of Robotics, 2020.<br>Accepted for publication.<br>[\[BibTeX\]](/pub/maier2020rgbdvision.bib){:target="_blank"} |
+| ![maier2020rgbdvision](/pub/maier2020rgbdvision.jpg "maier2020rgbdvision") | **RGB-D Vision**<br>***Robert Maier**, Daniel Cremers*<br>Springer Encyclopedia of Robotics, May 2020.<br>xxx |
+[\[PDF\]](https://link.springer.com/content/pdf/10.1007%2F978-3-642-41610-1_109-1.pdf){:target="_blank"} [\[Chapter\]](https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-41610-1_109-1){:target="_blank"} [\[Book\]](https://link.springer.com/referencework/10.1007/978-3-642-41610-1){:target="_blank"} [\[BibTeX\]](/pub/maier2020rgbdvision.bib){:target="_blank"}
 
 
 # Preprints
@@ -48,7 +49,7 @@ table:nth-of-type(4) td:nth-of-type(1) {
 
 # Theses
 
-| ![maier2019dissertation](/pub/maier2019dissertation.jpg "maier2019dissertation") | **High-Quality 3D Reconstruction from Low-Cost RGB-D Sensors**<br>***Robert Maier***<br>Dissertation (Dr. rer. nat.), Technische Universität München, April 2020. |
+| ![maier2019dissertation](/pub/maier2019dissertation.jpg "maier2019dissertation") | **High-Quality 3D Reconstruction from Low-Cost RGB-D Sensors**<br>***Robert Maier***<br>Dissertation (Dr. rer. nat.), Technische Universität München, March 2020.<br>[\[BibTeX\]](/pub/maier2020dissertation.bib){:target="_blank"} |
 | ![maier2013thesis](/pub/maier2013thesis.jpg "maier2013thesis") | **Out-of-Core Bundle Adjustment for 3D Workpiece Reconstruction**<br>***Robert Maier***<br>Master’s Thesis (M.Sc.), Technische Universität München, September 2013.<br>[\[Thesis\]](/pub/maier2013thesis.pdf){:target="_blank"} [\[Slides\]](/pub/maier2013thesis_slides.pdf){:target="_blank"} [\[BibTeX\]](/pub/maier2013thesis.bib){:target="_blank"} |
 | ![maier2010thesis](/pub/maier2010thesis.jpg "maier2010thesis") | **Dynamic Workspace-Surveillance in a Human-Robot Collaboration Scenario using Depth Cameras (German)**<br>***Robert Maier***<br>Bachelor’s Thesis (B.Sc.), Technische Universität München, October 2010.<br>[\[Thesis\]](/pub/maier2010thesis.pdf){:target="_blank"} [\[Slides\]](/pub/maier2010thesis_slides.pdf){:target="_blank"} [\[BibTeX\]](/pub/maier2010thesis.bib){:target="_blank"} |
 

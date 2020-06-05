@@ -13,7 +13,8 @@ table:nth-of-type(1), table:nth-of-type(2), table:nth-of-type(3), table:nth-of-t
 table:nth-of-type(1) td:nth-of-type(1),
 table:nth-of-type(2) td:nth-of-type(1),
 table:nth-of-type(3) td:nth-of-type(1),
-table:nth-of-type(4) td:nth-of-type(1) {
+table:nth-of-type(4) td:nth-of-type(1),
+table:nth-of-type(5) td:nth-of-type(1) {
     width:130px;
 }
 </style>

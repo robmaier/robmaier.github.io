@@ -16,7 +16,7 @@ Germany
 -->
 Email: rm [at] rmaier.net<br>
 Web: [www.rmaier.net](http://www.rmaier.net/)<br>
-Responsible for content according to §10 Abs. 3 MDStV: Robert Maier
+Responsible for content according to §10 Abs. 3 MDStV: Dr. Robert Maier
 
 # Disclaimer
 1. Content<br>

@@ -3,7 +3,8 @@ layout: page
 title: Contact
 ---
 
-# Robert Maier
+# Dr. Robert Maier
+<!---
 Technische Universität München<br>
 Department of Computer Science<br>
 Informatik 9<br>
@@ -12,7 +13,7 @@ Boltzmannstr. 3<br>
 Germany
 
 # Contact
-Phone: +49 89 / 289-17782<br>
+-->
 Email: rm [at] rmaier.net<br>
 Web: [www.rmaier.net](http://www.rmaier.net/)<br>
 Responsible for content according to §10 Abs. 3 MDStV: Robert Maier

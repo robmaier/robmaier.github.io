@@ -11,7 +11,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Robert Maier
+title: Dr. Robert Maier
 
 # Short description of your site
 description: Computer Vision Researcher | Munich
@@ -53,7 +53,7 @@ avatar: "/img/robert_maier_small.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Robert Maier
+  name: Dr. Robert Maier
   email: "rm@rmaier.net"
   github: robmaier
   twitter: RobertMaier

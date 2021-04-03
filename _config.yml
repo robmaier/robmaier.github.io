@@ -82,6 +82,12 @@ url-pretty: "rmaier.net"  # eg. "deanattali.com/beautiful-jekyll"
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: UA-110528027-1
+
+# Google Tag Manager ID
+#gtm: ""
+
 # Facebook App ID
 # fb_app_id: ""
 

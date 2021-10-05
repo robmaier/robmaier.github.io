@@ -4,7 +4,7 @@ title: Welcome
 use-site-title: true
 ---
 
-My name is **Dr. Robert Maier** and I am a Computer Vision Engineer at [Apple](https://www.apple.com/){:target="_blank"} in Munich, focused on 3D reconstruction.
+My name is **Dr. Robert Maier** and I am a Senior Computer Vision Engineer at [Apple](https://www.apple.com/){:target="_blank"} in Munich, focused on 3D reconstruction.
 
 # Research Interests
 My research interests include *(real-time) RGB-D based 3D Reconstruction, Visual SLAM, Visual Odometry, Shape-from-Shading and Bundle Adjustment techniques*. Please visit my [publication page](http://www.rmaier.net/publications/) to find out more about my research.

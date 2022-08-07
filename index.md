@@ -4,13 +4,13 @@ title: Welcome
 use-site-title: true
 ---
 
-My name is **Dr. Robert Maier** and I am a Senior Computer Vision Engineer at [Apple](https://www.apple.com/){:target="_blank"} in Munich, focused on 3D reconstruction.
+My name is **Dr. Robert Maier** and I am a Research Scientist at [Meta Reality Labs Research](https://tech.fb.com/ar-vr/){:target="_blank"}, focused on 3D reconstruction.
 
 # Research Interests
-My research interests include *(real-time) RGB-D based 3D Reconstruction, Visual SLAM, Visual Odometry, Shape-from-Shading and Bundle Adjustment techniques*. Please visit my [publication page](http://www.rmaier.net/publications/) to find out more about my research.
+My research interests include *(real-time) RGB-D based 3D Reconstruction, Digital Humans, Visual SLAM & Odometry, Shape-from-Shading and Bundle Adjustment techniques*. Please visit my [publication page](http://www.rmaier.net/publications/) to find out more about my research.
 
 # Brief Bio
-I have joined [Apple Munich](https://www.apple.com/){:target="_blank"} in October 2019 as a Senior Computer Vision Engineer, where I am working on cutting edge 3D reconstruction techniques. Before that, I was a Research Assistant and Doctorate Candidate at the [Computer Vision Group](http://vision.in.tum.de/){:target="_blank"} at the [Technical University of Munich](http://www.tum.de/){:target="_blank"}, headed by [Prof. Dr. Daniel Cremers](https://vision.in.tum.de/members/cremers){:target="_blank"}, from 2014-2019. Within the scope of my PhD activities, I spent several months as a Computer Vision Research Intern at [Oculus Research](https://www.oculus.com/research/){:target="_blank"} (Redmond, WA, USA) and [NVIDIA Research](https://research.nvidia.com/){:target="_blank"} (Santa Clara, CA, USA). From 2013-2014 I worked as a Computer Vision Engineer at [ImFusion](http://www.imfusion.de/){:target="_blank"} (Munich).
+I have joined [Meta Reality Labs Research](https://tech.fb.com/ar-vr/){:target="_blank"} in September 2022 as a Research Scientist for *Digital Humans*. From 2019-2022, I have been a Senior Computer Vision Engineer at [Apple Munich](https://www.apple.com/){:target="_blank"}. working on cutting edge 3D reconstruction techniques. Before that, I was a Research Assistant and Doctorate Candidate at the [TUM Computer Vision Group](http://vision.in.tum.de/){:target="_blank"}, headed by [Prof. Dr. Daniel Cremers](https://vision.in.tum.de/members/cremers){:target="_blank"}, from 2014-2019. Within the scope of my PhD activities, I spent several months as a Computer Vision Research Intern at [Oculus Research](https://www.oculus.com/research/){:target="_blank"} (Redmond, WA, USA) and [NVIDIA Research](https://research.nvidia.com/){:target="_blank"} (Santa Clara, CA, USA). From 2013-2014 I worked as a Computer Vision Engineer at [ImFusion](http://www.imfusion.de/){:target="_blank"} (Munich).
 I have received my Bachelor’s (2010) and Master’s (2013, with distinction) degrees in Computer Science from TU Munich (Germany). During my Master’s studies, I spent an exchange semester at [UPC Barcelona](http://www.upc.edu/){:target="_blank"} (Spain) and I worked as a Computer Vision Research Intern at [Siemens Corporate Research](http://www.usa.siemens.com/en/about_us/research/home.htm){:target="_blank"} in Princeton, NJ (USA). Moreover, I have a Computer Science Expert degree and many years experience of working as a Software Engineer. Please have a look at my [CV](http://www.rmaier.net/cv/) for more information.
 
 <div class="sketchfab-embed-wrapper" style="width:100%; text-align:center">
@@ -18,7 +18,7 @@ I have received my Bachelor’s (2010) and Master’s (2013, with distinction) d
 </div>
 
 # Find me on…
-Please check out also my [academic website](https://vision.in.tum.de/members/maierr){:target="_blank"} at the Chair for Computer Vision and Artificial Intelligence at the Technical University of Munich. Find me on [Google Scholar](https://scholar.google.de/citations?user=JoLgWjkAAAAJ){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/robertmaier7){:target="_blank"}, [Twitter](http://twitter.com/robertmaier){:target="_blank"} and [Github](http://github.com/robmaier/){:target="_blank"}.
+Please find me on [Google Scholar](https://scholar.google.de/citations?user=JoLgWjkAAAAJ){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/robertmaier7){:target="_blank"}, [Twitter](http://twitter.com/robertmaier){:target="_blank"} and [Github](http://github.com/robmaier/){:target="_blank"}.
 
 # Trivia
 * I am appearing in the 2016 Hollywood film ["Snowden"](http://www.imdb.com/title/tt3774114/){:target="_blank"} (directed by Oliver Stone) as an NSA employee.
